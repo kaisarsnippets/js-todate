@@ -1,6 +1,6 @@
 {
   "name": "kc-todate",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "[js] Format time string.",
   "main": "index.js",
   "repository": {
